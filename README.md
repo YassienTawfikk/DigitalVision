@@ -9,10 +9,10 @@
 Each project also contains its own folder structure and a detailed `README.md` file showcasing feature comparisons, visual examples, and technical explanations. Notably, over **95% of all features are implemented manually**, without relying on OpenCV’s built-in processing functions — reinforcing deep algorithmic understanding.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0aa92ef3-5098-45b9-a77f-ede290870fc6" width="500px" alt="Pixelizer">  
-  <img src="https://github.com/user-attachments/assets/b6d5490e-700e-4fbe-94b2-1ecf6a6bbc2c" width="500px" alt="SegmaVision"> 
-  <img src="https://github.com/user-attachments/assets/c9dced42-db09-4306-a60b-84c498ebf52c" width="500px" alt="SIFT-See">
-  <img src="https://github.com/user-attachments/assets/00d25199-949f-4fe5-b372-7c593e2dcccc" width="500px" alt="EdgeEnhance"> 
+  <img src="https://github.com/user-attachments/assets/0aa92ef3-5098-45b9-a77f-ede290870fc6" width="49%" alt="Pixelizer">  
+  <img src="https://github.com/user-attachments/assets/b6d5490e-700e-4fbe-94b2-1ecf6a6bbc2c" width="49%" alt="SegmaVision"> 
+  <img src="https://github.com/user-attachments/assets/c9dced42-db09-4306-a60b-84c498ebf52c" width="49%" alt="SIFT-See">
+  <img src="https://github.com/user-attachments/assets/00d25199-949f-4fe5-b372-7c593e2dcccc" width="49%" alt="EdgeEnhance"> 
 </p>
 
 ---
