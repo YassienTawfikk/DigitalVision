@@ -1,0 +1,52 @@
+Pixelizer/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+│
+├── app/
+│   ├── controller.py
+│   │
+│   ├── design/
+│   │   ├── tools/
+│   │   │   └── gui_utilities.py
+│   │   │
+│   │   ├── ui/
+│   │   │   ├── metrics_graphs.ui
+│   │   │   └── main_layout.ui
+│   │   │
+│   │   ├── metrics_graphs.py
+│   │   └── main_layout.py
+│   │
+│   ├── processing/
+│   │   ├── denoise.py
+│   │   ├── edge_detection.py
+│   │   ├── fourier_filters.py
+│   │   ├── histogram_equalization.py
+│   │   ├── hybrid_image.py
+│   │   ├── image_normalization.py
+│   │   ├── noise_amount.py
+│   │   ├── rgb_image_converter.py
+│   │   └── thresholding.py
+│   │
+│   ├── services/
+│   │   └── image_service.py
+│   │
+│   ├── tests/
+│   │   └── design_test.py
+│   │
+│   └── utils/
+│       └── clean_cache.py
+│
+└── static/
+    ├── icons/
+    │   └── icon.png
+    │
+    ├── images/
+    │   ├── image01
+    │   ├── ......
+    │   └── image11
+    │
+    └── docs/
+        ├── Report.pdf
+        └── OOP Structure.txt
