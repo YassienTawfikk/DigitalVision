@@ -1,0 +1,39 @@
+SiftSee/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── main.py
+│
+├── app/
+│   ├── controller.py
+│   │
+│   ├── design/
+│   │   ├── tools/
+│   │   │   └── gui_utilities.py
+│   │   ├── ui/
+│   │   │   └── main_layout.ui
+│   │   └── main_layout.py
+│   │
+│   ├── processing/
+│   │   │── harris.py
+│   │   │── sift.py
+│   │   └──  template_matching.py
+│   │
+│   ├── services/
+│   │   └── image_service.py
+│   │
+│   └── utils/
+│       └── clean_cache.py
+│
+└── static/
+    ├── icons/
+    │   └── icon.png
+    │
+    ├── images/
+    │   ├── image01
+    │   ├── ......
+    │   └── image19
+    │
+    └── docs/
+        └── ProjectStructure.txt
