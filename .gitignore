@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+
+# IDE-specific files
+.idea/
+
+# Temporary or logging directories
+Logging/
