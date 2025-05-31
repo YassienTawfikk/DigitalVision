@@ -1,6 +1,3 @@
-[submodule "EdgeEnhance"]
-	path = EdgeEnhance
-	url = https://github.com/YassienTawfikk/EdgeEnhance.git
 [submodule "Pixelizer"]
 	path = Pixelizer
 	url = https://github.com/YassienTawfikk/Pixelizer.git
