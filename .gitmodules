@@ -1,9 +1,0 @@
-[submodule "Pixelizer"]
-	path = Pixelizer
-	url = https://github.com/YassienTawfikk/Pixelizer.git
-[submodule "Sift-See"]
-	path = Sift-See
-	url = https://github.com/YassienTawfikk/Sift-See.git
-[submodule "SegmaVision"]
-	path = SegmaVision
-	url = https://github.com/YassienTawfikk/SegmaVision.git
