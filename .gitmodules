@@ -1,0 +1,12 @@
+[submodule "EdgeEnhance"]
+	path = EdgeEnhance
+	url = https://github.com/YassienTawfikk/EdgeEnhance.git
+[submodule "SIFT-See"]
+	path = SIFT-See
+	url = https://github.com/YassienTawfikk/SIFT-See.git
+[submodule "SegmaVision"]
+	path = SegmaVision
+	url = https://github.com/YassienTawfikk/SegmaVision.git
+[submodule "Pixelizer"]
+	path = Pixelizer
+	url = https://github.com/YassienTawfikk/Pixelizer.git
